@@ -1,0 +1,25 @@
+.login-body {
+    text-align: center;
+    /* background-color: white; */
+    border-radius: 5px;
+    margin: 7% 35%;
+    box-shadow: 0 0 10px #888888;
+    padding-top: 5px;
+    padding-bottom: 5%;
+}
+.loginButton {
+    border: none;
+    border-radius: 8px;
+    padding: 6px 20%;
+    margin-top: 20px;
+    background-color: indianred;
+    color: white;
+    font-weight: 700;
+}
+.error-message {
+    color: red;
+}
+.checkBox  {
+    margin-right: 12%;
+}
+  

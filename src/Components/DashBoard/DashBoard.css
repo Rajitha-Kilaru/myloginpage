@@ -1,0 +1,23 @@
+.dash-board {
+    display: flex;
+    justify-content: space-between;
+    background-color: yellowgreen;
+    padding: 0px 10%;
+}
+.title {
+    color: white;
+    font-weight: 700;
+}
+.logout-section {
+    margin-top: 18px;
+}
+.logoutLink {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+.title-section {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 1%;
+}
